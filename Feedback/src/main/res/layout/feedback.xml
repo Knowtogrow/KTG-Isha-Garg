@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F4F4F6"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".Feedback">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="375dp"
+        android:layout_height="104dp"
+        android:layout_gravity="center|center_horizontal"
+        android:layout_marginTop="10dp"
+        android:height="200dp"
+        android:background="#F0F0F3"
+        android:fontFamily="sans-serif"
+        android:padding="30dp"
+        android:text="FeedBack "
+        android:textAlignment="center"
+        android:textColor="#1A237E"
+        android:textSize="40dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/user"
+        android:layout_width="351dp"
+        android:layout_height="62dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="30dp"
+        android:background="#ECE5E5"
+        android:hint="User Name"
+        android:padding="5dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tvFeedback"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:text="Please Rate Us"
+            android:textColor="#1A237E"
+            android:textSize="18dp" />
+    </LinearLayout>
+
+    <RatingBar
+        android:id="@+id/rbStars"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="#FEFEFF"
+        android:numStars="5"
+        android:progressBackgroundTint="@color/grey"
+        android:progressTint="@color/golden"
+        android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/feedback"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="30dp"
+        android:background="#ECE5E5"
+        android:ems="10"
+        android:gravity="start|top"
+        android:hint="Share your valuable FeedBack with us"
+        android:inputType="textMultiLine"
+        android:lines="7"
+        android:padding="5dp" />
+
+    <Button
+        android:id="@+id/btnSend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="80dp"
+        android:fontFamily="sans-serif"
+        android:onClick="feedbacksent"
+        android:padding="10dp"
+        android:text="Send FeedBack"
+        android:textColor="#FAF8F8"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:backgroundTint="#1A237E" />
+</LinearLayout>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Home Screen</string>
+    <string name="navigation_open">Open Navigation drawer</string>
+    <string name="navigation_close">Close Navigation drawer</string>
+    <string name="title_activity_terms">ScrollingActivity</string>
+    <string name="large_text">
+        The KnowToGrow service is made available for personal, non-commercial use only.
+        Broadcasting the same through any means, including but not limited to through
+        the internet, television, handheld devices and other devices, is not permitted
+        and will be considered as a breach of Intellectual Property Rights of the Company.
+        The reserves the rights to terminate the subscription without any prior notice and
+        also to initiate any legal proceedings in case of such breach. Business, organizations
+        or other legal entities are strictly debarred from using the KnowToGrow services for any purpose.\n\n
+        The user is prohibited from using the KnowToGrow service for any illegal or unauthorized purpose.
+        International users agree to comply with all local rules regarding online conduct and acceptable
+        content, including laws regulating the export of data from India. The user is solely responsible
+        for his conduct and any data, text, information, graphics, photos, profiles, audio and video clips,
+        links and other material that he submits, posts and displays on the KnowToGrow service.\n\n
+        KnowToGrow accepts no responsibility for the material and contents, accuracy, conformity to applicable laws of such material.\n\n
+        In the preparation of the Application/Website/Services/products and contents therein, every effort has been made to offer the most
+        current, correct, and clearly expressed information possible. Nevertheless, inadvertent errors may occur. In particular, but without
+        limiting anything here, the Company disclaims any responsibility for any errors and accuracy of the information that may be contained
+        in the Application. Any feedback from User is most welcome to make the Application and contents thereof error free and user friendly.
+        Company also reserves the right and discretion to make any changes/corrections or withdraw/add contents at any time without notice.
+        Neither the Company nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness
+        or suitability of the information and materials found or offered on Application/Website/Services/products for any particular purpose.
+        You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such
+        inaccuracies or errors to the fullest extent permitted by law.\n\n
+        Certain contents in the Application/Services/Website/products (in particular relating to assistance in preparations for administrative services)
+        may contain opinions and views. The Company shall not be responsible for such opinions or any claims resulting from them. Further, the Company
+        makes no warranties or representations whatsoever regarding the quality, content, completeness, or adequacy of such information and data.
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>

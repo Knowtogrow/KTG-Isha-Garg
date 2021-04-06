@@ -1,0 +1,11 @@
+include ':Contact Us'
+include ':Feedback'
+include ':Aptitude Test'
+include ':Home'
+include ':Refer'
+include ':FAQ'
+include ':AboutUs'
+include ':Ask The Expert'
+include ':Subject_Choice'
+include ':app'
+rootProject.name = "LOGO"
