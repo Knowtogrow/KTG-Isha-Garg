@@ -12,15 +12,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/AboutUs" />
-            <option value="$PROJECT_DIR$/Aptitude Test" />
-            <option value="$PROJECT_DIR$/Ask The Expert" />
-            <option value="$PROJECT_DIR$/Contact Us" />
-            <option value="$PROJECT_DIR$/FAQ" />
-            <option value="$PROJECT_DIR$/Feedback" />
-            <option value="$PROJECT_DIR$/Home" />
-            <option value="$PROJECT_DIR$/Refer" />
-            <option value="$PROJECT_DIR$/Subject_Choice" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
