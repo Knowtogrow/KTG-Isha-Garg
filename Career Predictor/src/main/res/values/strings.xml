@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">Predictor</string>
+    <string-array name="spinner">
+        <item>Select a subject</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Biology</item>
+        <item>Maths</item>
+        <item>Computer Science</item>
+        <item>Business Studies</item>
+        <item>Accounts</item>
+        <item>Economics</item>
+        <item>Physical Education</item>
+        <item>History</item>
+        <item>Geography</item>
+        <item>Political Science</item>
+        <item>Sociology</item>
+        <item>Psychology</item>
+    </string-array>
+
+
+
+    <string name="data">My RecyclerView</string>
+    <string-array name="subjects">
+        <item>Auditor</item>
+        <item>Financial Analyst</item>
+        <item> Statistician</item>
+        <item> Manager</item>
+        <item> Consultant</item>
+        <item> Archivist</item>
+        <item> Teacher</item>
+        <item> Journalist</item>
+        <item> Psychologist</item>
+        <item> Counsellor</item>
+        <item> Clinical Psychologist</item>
+    </string-array>
+
+    <string name="Auditor_BSR_Matter">
+        "~ Ability to promote the value of internal \n"
+        "   audit among key employees within the \n"
+        "   organization.\n"
+        "~ Knowledge in auditing, internal audit\n"
+        "   standards, fraud awareness, and \n"
+        "   professional ethical standards.\n"
+        "~ Knowledge in enterprise risk management.\n"
+
+    </string>
+    <string name="FA_Matter">
+        " ~ Ability to streamline functions and passion\n"
+        "    to learn and grow\n"
+        "~ Strong interpersonal skills, including \n"
+        "    written and communication skills\n"
+        "~ Comfort dealing with ambiguity and the\n"
+        "    ability to work independently\n"
+    </string>
+    <string name="Stat_Matter">
+        " ~ Expertise in theoretical and applied\n"
+        "    statistics, summary statistics and \n"
+        "    hypothesis testing.\n"
+        "~ Mathematics which should include linear\n"
+        "   algebra, calculus and probability\n"
+        "~ Proficiency in languages like R, SAS, C, C++,\n"
+        "    Python, Perl, Java\n"
+    </string>
+    <string name="Archivi_Matter">
+        " ~ You must be able to understand written\n"
+        "    documents.\n"
+        "~ You must be able to determine the origin,\n"
+        "    importance, and condition of materials.\n"
+        "~ Organizational skills are important in\n"
+        "   developing systems for storing materials\n"
+        "   and making them available to the public.\n"
+    </string>
+    <string name="Teacher_Matter">
+        " ~ Social Perceptiveness.\n"
+        "~ Reading Comprehension.\n"
+        "~ Learning Strategies.\n"
+    </string>
+    <string name="Journ_Matter">
+        " ~ Ability to follow strict deadlines and fast-\n"
+        "    check information.\n"
+        "~ Willing to travel up to 75% of the time.\n"
+        "~ Comfortable in front of and behind the\n"
+        "    camera.\n"
+    </string>
+    <string name="Psycho_Matter">
+        " ~ Qualitative Research.\n"
+        "~ Ethical Understanding.\n"
+        "~ Critical Thinking."
+    </string>
+    <string name="Counse_matter">
+        "~ Interpersonal skills\n"
+        "~ Emotional stability\n"
+        "~ Knowledge of laws and regulations"
+    </string>
+    <string name="Clinical_matter">
+        "~ Active Listening\n"
+        "~ Complex Problem Solving\n"
+        "~ Judgment and Decision Making"
+    </string>
+    <string name="Manager_Matter">
+        " ~ Planning\n"
+        "~ Communication\n"
+        "~ Decision-making\n"
+        "~ Problem-solving\n"
+        "~ Human or Interpersonal Skills\n"
+    </string>
+    <string name="Consul_matter">
+        " ~ Commercial awareness\n"
+        "~ Good numerical skills\n"
+        "~ Attention to detail\n"
+        "~ Analytical skills\n"
+        "~ Tact and persuasive ability\n"
+        "~ Teamworking skills\n"
+    </string>
+
+
+</resources>

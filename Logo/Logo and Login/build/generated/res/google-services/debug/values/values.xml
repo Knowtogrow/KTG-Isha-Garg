@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">574279846773-4snkgt3h2d8nhiqnrpand24bubv18iqu.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">574279846773</string>
+    <string name="google_api_key" translatable="false">AIzaSyDJ-xduth8sovzTxkLRxA0fQFqjdoF6IKo</string>
+    <string name="google_app_id" translatable="false">1:574279846773:android:f25cd2d00342e54ccee13c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDJ-xduth8sovzTxkLRxA0fQFqjdoF6IKo</string>
+    <string name="google_storage_bucket" translatable="false">signup-form-fireb.appspot.com</string>
+    <string name="project_id" translatable="false">signup-form-fireb</string>
+</resources>

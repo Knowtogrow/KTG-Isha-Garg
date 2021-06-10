@@ -1,2 +1,9 @@
-include ':app'
+include ':Aptitude Test'
+include ':Career Predictor'
+include ':Feedback'
+include ':Contact Us'
+include ':AboutUs'
+include ':Ask'
+include ':Home'
+include ':Logo'
 rootProject.name = "LOGO"
