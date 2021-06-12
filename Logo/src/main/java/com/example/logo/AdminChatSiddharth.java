@@ -17,7 +17,7 @@ import java.util.List;
 
 
 
-public class AdminChat extends AppCompatActivity
+public class AdminChatSiddharth extends AppCompatActivity
 {
     List<MessageChatModel> messageChatModelList =  new ArrayList<>();
     RecyclerView recyclerView;
@@ -30,7 +30,7 @@ public class AdminChat extends AppCompatActivity
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_admin_chat);
+        setContentView(R.layout.activity_admin_chat_siddharth);
 
 
         messageET = (EditText)findViewById(com.sujeet.chatappdesign.R.id.messageET);
@@ -42,8 +42,8 @@ public class AdminChat extends AppCompatActivity
 
 
         MessageChatModel model1 = new MessageChatModel(
-                "Hello ",
-                "02:30 PM",
+                "Good Afternoon Sir. ",
+                "02:00 PM",
                 1
         );
         MessageChatModel model2 = new MessageChatModel(
@@ -61,18 +61,13 @@ public class AdminChat extends AppCompatActivity
                 "02:12 PM",
                 0
         );
-        MessageChatModel model5 = new MessageChatModel(
-                "Nah, I dunno. Play soccer.. or learn more coding perhaps?",
-                "02:13 PM",
-                1
-        );
 
 
 
         messageChatModelList.add(model1);
-//        messageChatModelList.add(model2);
-//        messageChatModelList.add(model3);
-//        messageChatModelList.add(model4);
+        messageChatModelList.add(model2);
+        messageChatModelList.add(model3);
+        messageChatModelList.add(model4);
 //        messageChatModelList.add(model1);
 //        messageChatModelList.add(model2);
 //        messageChatModelList.add(model3);
@@ -98,11 +93,11 @@ public class AdminChat extends AppCompatActivity
                 String msg = messageET.getText().toString();
 
                 MessageChatModel model = new MessageChatModel
-                (
-                        msg,
-                        "02:30 PM",
-                        0
-                );
+                        (
+                                msg,
+                                "02:30 PM",
+                                0
+                        );
                 messageChatModelList.add(model);
                 recyclerView.smoothScrollToPosition(messageChatModelList.size());
                 adapter.notifyDataSetChanged();

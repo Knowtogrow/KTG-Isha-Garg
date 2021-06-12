@@ -10,7 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LOGO"
         tools:replace="android:theme">
-        <activity android:name=".AdminChat"></activity>
+        <activity android:name=".AdminChatSiddharth"></activity>
+        <activity android:name=".AdminChat" />
         <activity android:name=".Admin" />
         <activity android:name=".Signup_form" />
         <activity android:name=".login_form" />

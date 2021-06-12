@@ -53,7 +53,7 @@
                     android:maxLines="1"
                     android:text="Amit Anand"
                     android:textColor="#ffffff"
-                    android:textSize="18dp"></TextView>
+                    android:textSize="18dp"/>
 
                 <LinearLayout
                     android:layout_width="match_parent"

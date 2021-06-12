@@ -27,7 +27,6 @@
         android:layout_marginStart="64dp"
         android:layout_marginLeft="64dp"
         android:layout_marginTop="90dp"
-
         android:background="@drawable/button_rounded"
         android:onClick="btn_science"
         android:text="Science"
@@ -74,7 +73,6 @@
         android:id="@+id/button4"
         android:layout_width="123dp"
         android:layout_height="50dp"
-
         android:layout_marginTop="56dp"
         android:layout_marginEnd="52dp"
         android:layout_marginRight="52dp"

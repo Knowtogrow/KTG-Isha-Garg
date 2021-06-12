@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#ffffff"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".AdminChatSiddharth">
 
 
     <LinearLayout
@@ -43,9 +43,9 @@
                     android:fontFamily="@font/opensansregular"
                     android:gravity="center"
                     android:maxLines="1"
-                    android:text="Ishita Chandra"
+                    android:text="Siddharth"
                     android:textColor="#ffffff"
-                    android:textSize="18dp"/>
+                    android:textSize="18dp" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -109,4 +109,3 @@
     </LinearLayout>
 
 </LinearLayout>
-

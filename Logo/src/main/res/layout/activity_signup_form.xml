@@ -114,9 +114,10 @@
         android:layout_marginLeft="25dp"
         android:layout_marginTop="49dp"
         android:background="@drawable/button_rounded"
+        android:onClick="btn_sign"
         android:text="REGISTER"
         android:textColor="#ffffff"
         android:textSize="28sp"
-        android:onClick="btn_sign"/>
+        app:backgroundTint="#1A237E" />
 
 </LinearLayout>
