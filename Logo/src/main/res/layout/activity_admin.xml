@@ -113,13 +113,13 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.365"
-        app:srcCompat="@drawable/boyy" />
+        app:srcCompat="@drawable/girl_2" />
 
     <TextView
         android:id="@+id/textView18"
         android:layout_width="196dp"
         android:layout_height="35dp"
-        android:text="  Siddharth"
+        android:text="  Simran Bhatti"
         android:textSize="25dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -145,7 +145,7 @@
         android:id="@+id/textView19"
         android:layout_width="122dp"
         android:layout_height="23dp"
-        android:text="  Hello Sir."
+        android:text="  Hello "
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.401"

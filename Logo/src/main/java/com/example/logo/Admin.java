@@ -25,6 +25,6 @@ public class Admin extends AppCompatActivity {
     }
 
     public void btn_sidd(View view) {
-        startActivity(new Intent(getApplicationContext(), AdminChatSiddharth.class));
+        startActivity(new Intent(getApplicationContext(), AdminChatSimran.class));
     }
 }

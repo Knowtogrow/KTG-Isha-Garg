@@ -17,7 +17,7 @@ import java.util.List;
 
 
 
-public class AdminChatSiddharth extends AppCompatActivity
+public class AdminChatSimran extends AppCompatActivity
 {
     List<MessageChatModel> messageChatModelList =  new ArrayList<>();
     RecyclerView recyclerView;
@@ -30,7 +30,7 @@ public class AdminChatSiddharth extends AppCompatActivity
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_admin_chat_siddharth);
+        setContentView(R.layout.activity_admin_chat_simran);
 
 
         messageET = (EditText)findViewById(com.sujeet.chatappdesign.R.id.messageET);
